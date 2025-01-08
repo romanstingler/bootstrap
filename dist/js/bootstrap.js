@@ -1095,12 +1095,20 @@
       var selector = Util.getSelectorFromElement(this);
 
       if (!selector) {
+        if (this.href && this.href.indexOf('javascript:') === 0) {
+          event.preventDefault();
+        }
+
         return;
       }
 
       var target = $__default["default"](selector)[0];
 
       if (!target || !$__default["default"](target).hasClass(CLASS_NAME_CAROUSEL)) {
+        if (this.href && this.href.indexOf('javascript:') === 0) {
+          event.preventDefault();
+        }
+
         return;
       }
 
