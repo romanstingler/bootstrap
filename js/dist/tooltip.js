@@ -1,6 +1,6 @@
 /*!
-  * Bootstrap tooltip.js v4.6.2 (https://getbootstrap.com/)
-  * Copyright 2011-2022 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Bootstrap tooltip.js v4.6.3 (https://getbootstrap.com/)
+  * Copyright 2011-2025 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
   */
 (function (global, factory) {
@@ -53,7 +53,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap (v4.6.2): tools/sanitizer.js
+   * Bootstrap (v4.6.3): tools/sanitizer.js
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -178,7 +178,7 @@
    */
 
   var NAME = 'tooltip';
-  var VERSION = '4.6.2';
+  var VERSION = '4.6.3';
   var DATA_KEY = 'bs.tooltip';
   var EVENT_KEY = "." + DATA_KEY;
   var JQUERY_NO_CONFLICT = $__default["default"].fn[NAME];

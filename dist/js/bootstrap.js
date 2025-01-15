@@ -1,6 +1,6 @@
 /*!
-  * Bootstrap v4.6.2 (https://getbootstrap.com/)
-  * Copyright 2011-2022 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Bootstrap v4.6.3 (https://getbootstrap.com/)
+  * Copyright 2011-2025 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
   */
 (function (global, factory) {
@@ -67,7 +67,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap (v4.6.2): util.js
+   * Bootstrap (v4.6.3): util.js
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -241,7 +241,7 @@
    */
 
   var NAME$a = 'alert';
-  var VERSION$a = '4.6.2';
+  var VERSION$a = '4.6.3';
   var DATA_KEY$a = 'bs.alert';
   var EVENT_KEY$a = "." + DATA_KEY$a;
   var DATA_API_KEY$7 = '.data-api';
@@ -389,7 +389,7 @@
    */
 
   var NAME$9 = 'button';
-  var VERSION$9 = '4.6.2';
+  var VERSION$9 = '4.6.3';
   var DATA_KEY$9 = 'bs.button';
   var EVENT_KEY$9 = "." + DATA_KEY$9;
   var DATA_API_KEY$6 = '.data-api';
@@ -580,7 +580,7 @@
    */
 
   var NAME$8 = 'carousel';
-  var VERSION$8 = '4.6.2';
+  var VERSION$8 = '4.6.3';
   var DATA_KEY$8 = 'bs.carousel';
   var EVENT_KEY$8 = "." + DATA_KEY$8;
   var DATA_API_KEY$5 = '.data-api';
@@ -1167,7 +1167,7 @@
    */
 
   var NAME$7 = 'collapse';
-  var VERSION$7 = '4.6.2';
+  var VERSION$7 = '4.6.3';
   var DATA_KEY$7 = 'bs.collapse';
   var EVENT_KEY$7 = "." + DATA_KEY$7;
   var DATA_API_KEY$4 = '.data-api';
@@ -1508,7 +1508,7 @@
    */
 
   var NAME$6 = 'dropdown';
-  var VERSION$6 = '4.6.2';
+  var VERSION$6 = '4.6.3';
   var DATA_KEY$6 = 'bs.dropdown';
   var EVENT_KEY$6 = "." + DATA_KEY$6;
   var DATA_API_KEY$3 = '.data-api';
@@ -2011,7 +2011,7 @@
    */
 
   var NAME$5 = 'modal';
-  var VERSION$5 = '4.6.2';
+  var VERSION$5 = '4.6.3';
   var DATA_KEY$5 = 'bs.modal';
   var EVENT_KEY$5 = "." + DATA_KEY$5;
   var DATA_API_KEY$2 = '.data-api';
@@ -2615,7 +2615,7 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap (v4.6.2): tools/sanitizer.js
+   * Bootstrap (v4.6.3): tools/sanitizer.js
    * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
    * --------------------------------------------------------------------------
    */
@@ -2740,7 +2740,7 @@
    */
 
   var NAME$4 = 'tooltip';
-  var VERSION$4 = '4.6.2';
+  var VERSION$4 = '4.6.3';
   var DATA_KEY$4 = 'bs.tooltip';
   var EVENT_KEY$4 = "." + DATA_KEY$4;
   var JQUERY_NO_CONFLICT$4 = $__default["default"].fn[NAME$4];
@@ -3450,7 +3450,7 @@
    */
 
   var NAME$3 = 'popover';
-  var VERSION$3 = '4.6.2';
+  var VERSION$3 = '4.6.3';
   var DATA_KEY$3 = 'bs.popover';
   var EVENT_KEY$3 = "." + DATA_KEY$3;
   var JQUERY_NO_CONFLICT$3 = $__default["default"].fn[NAME$3];
@@ -3624,7 +3624,7 @@
    */
 
   var NAME$2 = 'scrollspy';
-  var VERSION$2 = '4.6.2';
+  var VERSION$2 = '4.6.3';
   var DATA_KEY$2 = 'bs.scrollspy';
   var EVENT_KEY$2 = "." + DATA_KEY$2;
   var DATA_API_KEY$1 = '.data-api';
@@ -3906,7 +3906,7 @@
    */
 
   var NAME$1 = 'tab';
-  var VERSION$1 = '4.6.2';
+  var VERSION$1 = '4.6.3';
   var DATA_KEY$1 = 'bs.tab';
   var EVENT_KEY$1 = "." + DATA_KEY$1;
   var DATA_API_KEY = '.data-api';
@@ -4130,7 +4130,7 @@
    */
 
   var NAME = 'toast';
-  var VERSION = '4.6.2';
+  var VERSION = '4.6.3';
   var DATA_KEY = 'bs.toast';
   var EVENT_KEY = "." + DATA_KEY;
   var JQUERY_NO_CONFLICT = $__default["default"].fn[NAME];
